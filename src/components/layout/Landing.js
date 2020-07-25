@@ -10,7 +10,7 @@ export const Landing = () => {
             <h1 className='x-large'>Job Connector</h1>
             <p className='lead'>
               Create a candidates profile/portfolio, share posts and get help
-              from other candidatess
+              from other candidates
             </p>
             <div className='buttons'>
               <Link to='register' className='btn btn-primary'>
